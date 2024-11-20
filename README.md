@@ -9,8 +9,6 @@ Front-End Developer
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vidhya-mahendran19)
-
-)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know French.
 ### I code in
